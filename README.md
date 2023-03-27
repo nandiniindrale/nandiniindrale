@@ -1,3 +1,4 @@
+![logo](https://github.com/nandiniindrale/nandiniindrale/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Nandini Indrale</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif width="400">
