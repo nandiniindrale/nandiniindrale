@@ -4,7 +4,7 @@
 <img align="right" alt="coding" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandiniindrale&label=Profile%20views&color=0e75b6&style=flat" alt="nandiniindrale" /> </p>
 
-- 🌱 I’m currently learning **Angualr**
+- 🌱 I’m currently Working on **ReactJS**
 
 - 📫 How to reach me **nandiniindrale2002@gmail.com**
 
